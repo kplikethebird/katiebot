@@ -1,0 +1,21 @@
+{
+  "name": "katiebot",
+  "version": "1.0.0",
+  "description": "Editorial coaching agent with Katie Parrott's writing principles. 4 skills, 4 commands for idea development, drafting, and revision.",
+  "author": {
+    "name": "Katie Parrott",
+    "email": "katie@every.to",
+    "url": "https://every.to"
+  },
+  "homepage": "https://every.to",
+  "repository": "https://github.com/EveryInc/every-marketplace",
+  "license": "MIT",
+  "keywords": [
+    "editorial",
+    "writing",
+    "coaching",
+    "revision",
+    "drafting",
+    "every"
+  ]
+}
